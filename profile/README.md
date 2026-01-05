@@ -81,7 +81,8 @@
 
 ## 📌 Repository 구성
 
-- `/hardware` : Arduino 코드, 회로 자료
-- `/backend` : Python 서버, 데이터 처리
-- `/frontend` : 웹/게임 UI
+- `/GOD-Hand-Arduino` : Arduino 코드, 회로 자료
+- `/GOD-Hand-FE` : 웹/게임 UI
+- `/GOD-Hand-BE` : Python 서버, 데이터 처리
+- /GOD-Hand-Docs` : 문서
 - `.github/profile/README.md` : 팀/프로젝트 소개

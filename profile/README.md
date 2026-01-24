@@ -24,6 +24,10 @@
 - HW 문제는 SW로 대체 시연 가능하도록 설계
 - 모든 핵심 기능은 **최소 2인 이상 이해**
 
+### 🧑‍💻 개발 참여 원칙
+- PM은 문서 전담이 아닌 FE/BE 개발 및 통합에 직접 참여
+- 모든 파트는 기능 단위로 교차 개발
+
 ---
 
 ## 🛠️ 기술 스택
@@ -144,5 +148,5 @@
 - `/GOD-Hand-Arduino` : Arduino 코드, 회로 자료
 - `/GOD-Hand-FE` : 웹/게임 UI
 - `/GOD-Hand-BE` : Python 서버, 데이터 처리
-- /GOD-Hand-Docs` : 문서
+- `/GOD-Hand-Docs` : 문서
 - `.github/profile/README.md` : 팀/프로젝트 소개
